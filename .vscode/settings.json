@@ -1,0 +1,8 @@
+{
+	"scss.lint.unknownAtRules": "ignore",
+	"cSpell.words": [
+		"Materialcon",
+		"tailwindcss",
+		"Toastr"
+	]
+}
